@@ -1,4 +1,4 @@
-AngularDynamicRouting
+ngDynamicRouting
 =====================
 Dynamic routing is 1 route, many views. It adapts to the pages that are available within your application. Did doesn't need config changes when new HTML partials are added.
 
